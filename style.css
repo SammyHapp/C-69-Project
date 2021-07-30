@@ -1,0 +1,24 @@
+.achievments_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+.achievments_head i {
+	float: right;
+}
+
+.achievments_head span {
+	color: #ff7700;
+}
+
+.img_1 {
+	margin-left: 410px;
+}
+
+.h4_swim {
+	margin-left: 480px;
+}
